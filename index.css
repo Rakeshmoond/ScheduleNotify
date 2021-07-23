@@ -613,10 +613,13 @@ table{
     margin: auto;
 }
 .badge-notification i {
-    width: 690px;
-    height: 60%;
+    width: 10%;
+    height: 10%;
       display: inline-block;
-    text-align: center;
-    
+   
+    position: relative;
   
+  }
+  #header {
+      margin: auto;
   }
